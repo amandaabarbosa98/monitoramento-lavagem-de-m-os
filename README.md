@@ -22,6 +22,13 @@ Este projeto utiliza um microcontrolador ESP32 para monitorar o uso de um dispen
 - Leds (para feedback visual).
 
 ## Pinagem
+
+### Print do circuito: 
+<div>
+  <img align="center" height "200em" src="https://github.com/user-attachments/assets/a4a5a1e6-bae1-4862-b123-6b75949c0000" width="500"/>
+<div>
+
+
 - TRIGGER_PIN: Pino 13 (Envia o pulso para o sensor ultrassônico).
 - ECHO_PIN: Pino 12 (Recebe o pulso refletido pelo sensor ultrassônico).
 - BUTTON_PIN: Pino 14 (Botão de disparo do dispenser).
@@ -59,6 +66,10 @@ https://dl.espressif.com/dl/package_esp32_index.json
 5. Carregue o código no seu ESP32:
 
 - Clique no botão de upload no Arduino IDE para carregar o código no ESP32.
+
+## Simulação
+
+Link da simulação: https://wokwi.com/projects/416622300755868673
 
 ## Contribuições
 Se você deseja contribuir para este projeto, sinta-se à vontade para criar um fork, fazer alterações e enviar um pull request com suas melhorias!
