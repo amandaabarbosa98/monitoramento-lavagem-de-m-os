@@ -39,7 +39,7 @@ Este projeto utiliza um microcontrolador ESP32 para monitorar o uso de um dispen
 1. Clone o repositório para o seu computador:
 
 ```cpp
-git clone https://github.com/SeuUsuario/Monitoramento-Dispenser-ESP32.git
+git clone git@github.com:amandaabarbosa98/monitoramento-lavagem-de-m-os.git
 ```
 
 2. Abra o arquivo codigo.ino no Arduino IDE.
